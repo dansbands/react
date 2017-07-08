@@ -1,5 +1,6 @@
 {
   "name": "reminderpro",
+  "homepage" : "http://dansbands.github.io/reminderpro",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
